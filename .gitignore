@@ -305,3 +305,8 @@ Resources/MapImages
 
 # Direnv stuff
 .direnv/
+/Resources/Maps/Bluespace/BluespaceDungeonScienceLarge.yml
+/Resources/Maps/Shuttles/brigantine.yml
+/Resources/Maps/Shuttles/fletcher.yml
+/Resources/Prototypes/_NF/Shipyard/brigantine.yml
+/Resources/Prototypes/_NF/Shipyard/fletcher.yml
