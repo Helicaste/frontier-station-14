@@ -23,7 +23,7 @@
   startingGear: HoSGear
   icon: "JobIconHeadOfSecurity"
   requireAdminNotify: true
-  supervisors: job-supervisors-captain
+  supervisors: job-supervisors-hop # Frontier
   whitelistRequired: true
   canBeAntag: false
   access:
@@ -31,6 +31,7 @@
   - HeadOfPersonnel
   - Command
   - Brig
+  - Frontier
   - Security
   - Armory
   - Maintenance
